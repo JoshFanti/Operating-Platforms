@@ -6,8 +6,8 @@ What did you do particularly well in developing this documentation?
 What about the process of working through a design document did you find helpful when developing the code?
   It helped me understand what the code might be used for and the other aspects of the field.
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
-  If i could fix anything, it would be the details of the Server side of the application with more detail
+  If i could fix anything, it would be the details of the Server side of the application with more detail and  may include a lack of security recommendations. It was expected to have a detailed description of the security model designed and built into the system to prevent unauthorized access, use, and disclosure of information and capabilities
 How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
-  It is there product and they are looking for something for what they want and could possibly use your help in the future if you have completed something that they were looking for
+  It is their product and they are looking for something for what they want and could possibly use your help in the future if you have completed something that they were looking for
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
   I would have a great team involed to get each section done in a timely manner and help one another if it is needed but to also give each other new ideas to improve
